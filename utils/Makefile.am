@@ -13,6 +13,7 @@ SUBDIRS = \
 	cec-ctl \
 	cec-compliance \
 	cec-follower \
+	cec-audio \
 	rds-ctl
 
 if WITH_LIBDVBV5

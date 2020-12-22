@@ -40,6 +40,8 @@ AC_CONFIG_FILES([Makefile
 	utils/cec-compliance/cec-compliance.1
 	utils/cec-follower/Makefile
 	utils/cec-follower/cec-follower.1
+	utils/cec-audio/Makefile
+	utils/cec-audio/cec-audio.1
 	utils/qvidcap/Makefile
 	utils/rds-ctl/Makefile
 
